@@ -22,6 +22,8 @@ The following **optional** functionality
 * []	User can **see level of battary of friends**
 
 
+## Mockup
+https://www.fluidui.com/editor/live/preview/cF84ZmFmMGE5NWM0NzQyZjkxMmVmOTQzMjc3M2FkMDFiOQ==
 
 
 ## Video Walkthrough
