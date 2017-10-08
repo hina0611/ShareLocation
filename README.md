@@ -20,6 +20,10 @@ The following **optional** functionality
 * []	User can **start video chat with friends**
 * []	User can **get push notification when friends are near by**
 * []	User can **see level of battary of friends**
+* []	User can **order Uber from app**
+* []	User can **see timetable of BART/CalTrain**
+
+
 
 
 ## Mockup
