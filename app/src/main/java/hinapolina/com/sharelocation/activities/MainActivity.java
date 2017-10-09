@@ -1,7 +1,9 @@
-package hinapolina.com.sharelocation;
+package hinapolina.com.sharelocation.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import hinapolina.com.sharelocation.R;
 
 public class MainActivity extends AppCompatActivity {
 
